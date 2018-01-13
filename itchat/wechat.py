@@ -25,7 +25,7 @@ import os
 robot_on = True    # 开启智能机器人
 group_on = True    # 机器人群聊开关
 retrieve_on = True # 撤回消息记录          
-api_url = 'http://www.tuling123.com/openapi/api'
+api_url = '******************************'
 apikey = '7047e78c39ed424ead5948a0b1dd78cd'
 robot_name = '英梨梨'     # 机器人名称
 self_name = '那天去'      # 自己的名字
@@ -37,7 +37,7 @@ event_time = 3600        # 循环发送介绍信息！
 
 
 self_local = '芜湖'       # 查询天气的地点
-ask_list = ['你好你好','三人行必有我聊天'] # 发送每日关心的群列表
+ask_list = ['你好你好'] # 发送每日关心的群列表
 ask_time = 6 # 推送每日天气和新闻等时间
  
 known_names = []
